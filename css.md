@@ -32,3 +32,5 @@
 - window.getComputedStyle
 - getBoundingClientRect
 - getClientRects
+
+[vertical-align](https://www.zhihu.com/question/23224247/answer/23971825)
